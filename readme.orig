@@ -1,0 +1,14 @@
+
+perlblaster is an attempt at creating an ascii arcade stylish game written in perl (as much as possible).
+
+Here at the beginning of its creation I am VERY open to ideas and suggestions on game play, objectives, and anything, really!
+
+You will need to run perlblaster in a terminal window, and for now need to make sure all the game files are in your current directory.  
+(I'm sure all this will be more flexible soon)
+
+Also, for best play I recommend you set your terminal size to 80x24.
+
+
+Feel free to send ideas, suggestions, flames and fixes to me at  
+rock808@David-Slimp.com
+
