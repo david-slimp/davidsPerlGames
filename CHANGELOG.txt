@@ -1,0 +1,67 @@
+# CHANGELOG.txt
+
+All notable changes to this project will be documented in this file.
+
+
+## version 0.2.0 // 2024-01-30
+### Added
+- Using Time::HiRes module to better handle proper game delay on modern systems.
+
+### Fixed
+- minor bug fixes probably introduced with differences in software of the last 20 years.
+    Things like:
+    - 'aplay' for playing system wav files now rather than 'play' -- later we will try to use Audio::MPG123
+    - output of aplay now sent to /dev/null
+
+
+
+
+
+......  versions 0.0.3, 0.1.0 and 0.1.1 info available on SourceForge.
+
+
+## version 0.0.2 // 2000-08-28
+### Updates
+- I'll fill in changes later. This was release date on SF
+https://sourceforge.net/projects/perlblaster/files/perlblaster/0.0.2/
+
+
+## version 0.0.1 // 2000-08-27
+### Added
+- Initial release date for perlblaster.pl on SourceForge.
+https://sourceforge.net/projects/perlblaster/files/perlblaster/0.0.1/
+
+
+
+
+
+## [Version X.Y.Z] - YYYY-MM-DD
+
+### Added
+- [Feature 5]: Description of the feature.
+- [Feature 6]: Description of the feature.
+
+### Changed
+- [Feature 7]: Description of the change.
+- [Feature 8]: Description of the change.
+
+### Fixed
+- [Bug 3]: Description of the bug fix.
+- [Bug 4]: Description of the bug fix.
+
+## [Version X.Y.Z-1] - YYYY-MM-DD
+
+### Added
+- [Feature 9]: Description of the feature.
+- [Feature 10]: Description of the feature.
+
+### Changed
+- [Feature 11]: Description of the change.
+- [Feature 12]: Description of the change.
+
+### Fixed
+- [Bug 5]: Description of the bug fix.
+- [Bug 6]: Description of the bug fix.
+
+... (repeat the sections for each version)
+
